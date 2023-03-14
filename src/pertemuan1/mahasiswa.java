@@ -5,10 +5,7 @@
  */
 package pertemuan1;
 
-/**
- *
- * @author AyUmiYuNo1
- */
+
 public class mahasiswa {
     String nama,nobp,kelas,jurusan,prodi;
     

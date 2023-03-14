@@ -5,10 +5,7 @@
  */
 package pertemuan1;
 
-/**
- *
- * @author AyUmiYuNo1
- */
+
 public class pendaftaran {
      public static void main(String[] args){
         mahasiswa mhs =new mahasiswa();
