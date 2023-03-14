@@ -5,10 +5,15 @@
  */
 package pertemuan1;
 
+/**
+ *
+ * @author Plat Merah
+ */
 
-public class pendaftaran {
+    
+    public class pendaftaran {
      public static void main(String[] args){
-        mahasiswa mhs =new mahasiswa();
+        pertemuan1.mahasiswa mhs =new pertemuan1.mahasiswa();
         mhs.nama="salsabila okta kirana";
         mhs.nobp="2101092068";
         mhs.kelas="mi2b";
@@ -16,3 +21,5 @@ public class pendaftaran {
         mhs.prodi="manajemen informatika";
     }
 }
+
+

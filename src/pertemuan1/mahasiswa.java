@@ -5,8 +5,12 @@
  */
 package pertemuan1;
 
+/**
+ *
+ * @author Plat Merah
+ */
 
-public class mahasiswa {
+    public class mahasiswa {
     String nama,nobp,kelas,jurusan,prodi;
     
     public static void main(String[] args){
@@ -21,3 +25,5 @@ public class mahasiswa {
     }
     
 }
+
+
